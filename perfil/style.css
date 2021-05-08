@@ -1,0 +1,21 @@
+.box {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background: url(fondo.jpg);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  text-transform: uppercase;
+  background: #fff;
+  width: 100%;
+  text-align: center;
+  font-size: 2em;
+  mix-blend-mode: screen;
+  font-family: "bebas neue", cursive;
+}
